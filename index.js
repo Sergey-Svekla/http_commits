@@ -5,3 +5,9 @@ function sayHello() {
   const userQuestion = "! How are you?";
   alert(`${userWellcome} ${userName} ${userQuestion}`);
 }
+
+function two();
+
+function two () {
+alert("guy");
+}

@@ -13,3 +13,4 @@ alert("guy");
 }
 
 let i = 4;
+let b = 555;

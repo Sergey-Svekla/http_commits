@@ -11,3 +11,5 @@ function two();
 function two () {
 alert("guy");
 }
+
+let i = 4;
